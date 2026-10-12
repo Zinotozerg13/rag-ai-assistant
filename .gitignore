@@ -1,0 +1,12 @@
+# Environment files
+.env
+.env.*
+!.env.example
+backend/.env
+
+# Dependencies
+node_modules/
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
